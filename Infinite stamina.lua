@@ -1,4 +1,4 @@
---无限体力功能
+--无限体力功能  NuoYa
 local ReplicatedStorage = game:GetService('ReplicatedStorage')
 local Players = game:GetService('Players')
 local speaker = Players.LocalPlayer
